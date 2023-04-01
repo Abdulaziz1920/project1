@@ -1,0 +1,11 @@
+.boot h1 {
+  padding: 23px 0;
+  line-height: 125.5%;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-family: var(--firstfont);
+  text-align: center;
+  color: #ffffff;
+}
+

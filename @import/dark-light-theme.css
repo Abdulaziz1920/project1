@@ -1,0 +1,81 @@
+.light {
+  background-color: black;
+  transition: 1s;
+}
+
+.light * {
+  color: black !important;
+}
+
+.light header {
+  background: linear-gradient(
+    90deg,
+    #1f005c,
+    #5b0060,
+    #870160,
+    #ac255e,
+    #ca485c,
+    #e16b5c,
+    #f39060,
+    #ffb56b
+  );
+}
+
+.light #backround {
+  background: linear-gradient(
+    90deg,
+    #1f005c,
+    #5b0060,
+    #870160,
+    #ac255e,
+    #ca485c,
+    #e16b5c,
+    #f39060,
+    #ffb56b
+  );
+}
+
+.light #back {
+  background: linear-gradient(
+    90deg,
+    #1f005c,
+    #5b0060,
+    #870160,
+    #ac255e,
+    #ca485c,
+    #e16b5c,
+    #f39060,
+    #ffb56b
+  );
+}
+
+.light footer {
+    border-top: 1px solid black;
+  background: linear-gradient(
+    90deg,
+    #1f005c,
+    #5b0060,
+    #870160,
+    #ac255e,
+    #ca485c,
+    #e16b5c,
+    #f39060,
+    #ffb56b
+  );
+}
+
+.light .news {
+  background-color: transparent;
+}
+
+.light .about_info {
+  background-color: transparent;
+}
+
+.light .card {
+  background-color: transparent;
+}
+
+.light .box img {
+  background-color: transparent;
+}
